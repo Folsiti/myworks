@@ -44,5 +44,5 @@
 
 ​	（5上图
 
-​		![](/home/folsiti/文档/myworks/img/pic.png)
+​		![](https://github.com/Folsiti/myworks/blob/main/img/pic.png)
 
